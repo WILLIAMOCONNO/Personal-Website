@@ -1,0 +1,42 @@
+.wrapper {
+    width: 900px;
+    height: 100vh;
+}
+.header {
+    background-color: aqua;
+    text-align:center ;
+    height:15%;
+}
+.navbar {
+    background-color: yellow;
+    text-align:center ;
+    height:10%;
+}
+.sidebar-left {
+    background-color:pink;
+    float:left;
+    text-align:center ;
+    height:30%;
+}
+.content {
+    background-color: aquamarine;
+    height:30%;
+    float:left;
+   
+   
+
+}
+.sidebar-right {
+    background-color: pink;
+    Float:right;
+    text-align:center ;
+    height:30%;
+
+}
+.footer {
+    background-color: aqua;
+    text-align:center ;
+    height:5%;
+   
+
+}
